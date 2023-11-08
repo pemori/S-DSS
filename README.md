@@ -11,6 +11,9 @@ Available at https://code.earthengine.google.com/45ea2872fcf691e91b736fab049859c
 That script output tha land use suitability of three land uses categories based on soil arsenic contamination
 and the hazards associated with potential emerging risks (explosions or fires).
 
+![Alt text](step2.png)
+
+
 R script 
 
 Model soil As contamination under different aerial emission loads. The code model how land suitability change
