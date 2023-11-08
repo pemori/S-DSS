@@ -1,8 +1,18 @@
 🌍[From risk assessment to land planning. The case of a trace element contaminated area in Chile]
 
+Authors: Andrés Salazar (GeoStyle) and Pedro Mondaca
+
 Here we featured the Google Earth Engine (GEE) & R Script associated with the scientific paper titled 
 "From risk assessment to land planning. The case of a trace element contaminated area in Chile"
 submitted to Land Degradation & Development.
+
+In this research we developed two user-friendly APPs to see the current and the future land use suitability.
+Such suitability was constrained by soil As concentration and for the emerging risks. 
+APP1: Current suitability
+https://andres-gee.users.earthengine.app/view/sdss-qp
+
+APP2: Modeled suitability based on the projected As aerial emissions from the Industrial Complex.
+https://andres-gee.users.earthengine.app/view/simqp
 
 - GEE script
 
