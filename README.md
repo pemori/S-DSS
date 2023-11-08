@@ -7,11 +7,13 @@ Here we featured the Google Earth Engine (GEE) & R Script associated with the sc
 submitted to Land Degradation & Development.
 
 In this research we developed two user-friendly APPs to see the current and the future land use suitability.
-Such suitability was constrained by soil As concentration and for the emerging risks. 
-APP1: Current suitability
+Such suitability was constrained by soil As concentration and for the emerging risks.
+
+APP1: Current suitability    
 https://andres-gee.users.earthengine.app/view/sdss-qp
 
-APP2: Modeled suitability based on the projected As aerial emissions from the Industrial Complex.
+APP2: Modeled suitability based on the projected As aerial emissions from the Industrial Complex
+
 https://andres-gee.users.earthengine.app/view/simqp
 
 - GEE script
