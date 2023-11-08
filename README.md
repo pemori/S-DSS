@@ -6,7 +6,7 @@ submitted to Land Degradation & Development.
 
 - GEE script
 
-Thist script output tha land use suitability of three land uses categories based on soil arsenic contamination
+This script output the land use suitability of three land uses categories based on soil arsenic contamination
 and the hazards associated with potential emerging risks (explosions or fires).
 
 ![image](https://github.com/pemori/S-DSS/assets/52520951/0708b9c2-8f14-4041-9d64-95134c1f9689)
