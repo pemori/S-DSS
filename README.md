@@ -13,7 +13,6 @@ APP1: Current suitability
 https://andres-gee.users.earthengine.app/view/sdss-qp
 
 APP2: Modeled suitability based on the projected As aerial emissions from the Industrial Complex
-
 https://andres-gee.users.earthengine.app/view/simqp
 
 - GEE script
@@ -27,7 +26,6 @@ The script is available at https://code.earthengine.google.com/45ea2872fcf691e91
 
 
 - R script 
-
 https://github.com/pemori/S-DSS/Land_use_modeling.R
 
 It models soil As contamination under different aerial emission loads. Specifically, the code models how land
@@ -35,7 +33,7 @@ suitability change based on current and alternative scenarios. Moreover, it meas
 among the categories.
 
 
-
 - References
+Mondaca, P., Berasaluce, M., Larraguibel‐González, C., Salazar, A., Nuñez‐Hidalgo, I., & Díaz‐Siefer, P. (2024). From risk assessment to land planning. The case of a trace element‐contaminated area in Chile. Land Degradation & Development. doi: https://doi.org/10.1002/ldr.5008
 
-Pending...
+
